@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cs4296
+    username: root
+    password: 669924ty
+  jpa:
+    open-in-view: false
